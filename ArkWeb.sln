@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArkLibrary", "ArkWeb\ArkLibrary.csproj", "{8673DB9A-431D-47C5-8810-DBF90D27DD0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArkWeb.DataAccess", "ArkLibrary.DataAccess\ArkWeb.DataAccess.csproj", "{2E5805FE-5277-4FFA-AEFF-C76C194627E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArkWeb.Models", "ArkLibrary.Models\ArkWeb.Models.csproj", "{7AC2FDAE-D23E-4846-80A7-61A7B6EA9E15}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArkWeb.Utility", "ArkLibrary.Utility\ArkWeb.Utility.csproj", "{318DBF94-DDDD-4101-B927-B56569EDA544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8673DB9A-431D-47C5-8810-DBF90D27DD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8673DB9A-431D-47C5-8810-DBF90D27DD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8673DB9A-431D-47C5-8810-DBF90D27DD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8673DB9A-431D-47C5-8810-DBF90D27DD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E5805FE-5277-4FFA-AEFF-C76C194627E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5805FE-5277-4FFA-AEFF-C76C194627E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5805FE-5277-4FFA-AEFF-C76C194627E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5805FE-5277-4FFA-AEFF-C76C194627E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC2FDAE-D23E-4846-80A7-61A7B6EA9E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC2FDAE-D23E-4846-80A7-61A7B6EA9E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC2FDAE-D23E-4846-80A7-61A7B6EA9E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC2FDAE-D23E-4846-80A7-61A7B6EA9E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318DBF94-DDDD-4101-B927-B56569EDA544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318DBF94-DDDD-4101-B927-B56569EDA544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318DBF94-DDDD-4101-B927-B56569EDA544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318DBF94-DDDD-4101-B927-B56569EDA544}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE716B27-73E1-4550-8D0E-C877FF6ADF87}
+	EndGlobalSection
+EndGlobal

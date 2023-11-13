@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\ASP.Net Web APP\Bulky\ArkLibrary.Models\bin\Debug\net7.0\BulkyWeb.Models.deps.json
+C:\Users\PC\Desktop\ASP.Net Web APP\Bulky\ArkLibrary.Models\bin\Debug\net7.0\BulkyWeb.Models.runtimeconfig.json
+C:\Users\PC\Desktop\ASP.Net Web APP\Bulky\ArkLibrary.Models\bin\Debug\net7.0\BulkyWeb.Models.dll
+C:\Users\PC\Desktop\ASP.Net Web APP\Bulky\ArkLibrary.Models\bin\Debug\net7.0\BulkyWeb.Models.pdb
+C:\Users\PC\Desktop\ASP.Net Web APP\Bulky\ArkLibrary.Models\obj\Debug\net7.0\BulkyWeb.Models.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ASP.Net Web APP\Bulky\ArkLibrary.Models\obj\Debug\net7.0\BulkyWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ASP.Net Web APP\Bulky\ArkLibrary.Models\obj\Debug\net7.0\BulkyWeb.Models.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ASP.Net Web APP\Bulky\ArkLibrary.Models\obj\Debug\net7.0\BulkyWeb.Models.AssemblyInfo.cs
+C:\Users\PC\Desktop\ASP.Net Web APP\Bulky\ArkLibrary.Models\obj\Debug\net7.0\BulkyWeb.Models.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ASP.Net Web APP\Bulky\ArkLibrary.Models\obj\Debug\net7.0\BulkyWeb.Models.dll
+C:\Users\PC\Desktop\ASP.Net Web APP\Bulky\ArkLibrary.Models\obj\Debug\net7.0\refint\BulkyWeb.Models.dll
+C:\Users\PC\Desktop\ASP.Net Web APP\Bulky\ArkLibrary.Models\obj\Debug\net7.0\BulkyWeb.Models.pdb
+C:\Users\PC\Desktop\ASP.Net Web APP\Bulky\ArkLibrary.Models\obj\Debug\net7.0\BulkyWeb.Models.genruntimeconfig.cache
+C:\Users\PC\Desktop\ASP.Net Web APP\Bulky\ArkLibrary.Models\obj\Debug\net7.0\ref\BulkyWeb.Models.dll
